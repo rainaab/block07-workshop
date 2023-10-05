@@ -14,3 +14,4 @@ let varThree = (8 * 5) - 1
 const userMessage = "You have received this message because you have been chosen to open an important vault. Here is the secret combination: "
 
 // alert message 
+alert( userMessage + varOne +"-"+ varTwo + "-"+ varThree)
